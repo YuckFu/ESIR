@@ -1,5 +1,5 @@
 # ESIR
-ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification as described in https://arxiv.org/abs/1807.03021
+ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification as described in https://arxiv.org/abs/1812.05824
 
 
 # Framework
