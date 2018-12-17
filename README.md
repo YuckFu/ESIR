@@ -3,7 +3,7 @@ ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification https:
 
 
 # Framework
-![image](ESIR/introduction.jpg)
+![image](https://github.com/fnzhan/ESIR/blob/master/introduction.jpg)
 
 # Citation
 If you find this project helpful for your research, please cite the following paper:
