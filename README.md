@@ -8,10 +8,10 @@ ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification as des
 # Citation
 If you find this project helpful for your research, please cite the following paper:
 ```
-@article{fnzhan2018_2,
+@article{fnzhan2019_1,
   author  = {Fangneng Zhan and Shijian Lu},
   title   = {ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification},
-  journal = {arXiv:1812.05824},
-  year    = {2018}
+  journal = {CVPR},
+  year    = {2019}
   }
 ```
